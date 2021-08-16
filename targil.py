@@ -6,7 +6,7 @@ alafim=meot-1
 
 
 
-print("ahadot " + str(ahadot))
+print("ahadot: " + str(ahadot))
 print("asarot: " + str(asarot))
 print("meot: " + str(meot))
 print("alafim: " + str(alafim))
